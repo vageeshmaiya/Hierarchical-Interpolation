@@ -1,0 +1,1 @@
+# An-Interpolation-based-Synthetic-Battery-Data-Generation-Technique
